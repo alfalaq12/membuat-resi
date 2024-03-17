@@ -1,0 +1,89 @@
+{
+    "status": 200,
+    "message": "Successfully tracked package",
+    "data": {
+      "summary": {
+        "awb": "030205696069",
+        "courier": "Tiki",
+        "service": "",
+        "status": "DELIVERED",
+        "date": "2020-07-06 02:48:17",
+        "desc": "",
+        "amount": "",
+        "weight": ""
+      },
+      "detail": {
+        "origin": "-",
+        "destination": "KP MUHARA RT 02/01",
+        "shipper": "SAKILA OLSHOP",
+        "receiver": "SITI BADRIAH"
+      },
+      "history": [
+        {
+          "date": "2020-07-06 02:48:17",
+          "desc": "ITEM HAS BEEN DELIVERED.",
+          "location": ""
+        },
+        {
+          "date": "2020-07-06 01:26:28",
+          "desc": "WITH DELIVERY COURIER AT PASIR HAYAM [CIANJUR]",
+          "location": ""
+        },
+        {
+          "date": "2020-07-06 01:16:50",
+          "desc": "ARRIVED AT TIKI CIANJUR",
+          "location": ""
+        },
+        {
+          "date": "2020-07-05 19:52:11",
+          "desc": "DEPARTED [M] BY OCGK01LCJR0120070022 TO CIANJUR",
+          "location": ""
+        },
+        {
+          "date": "2020-07-05 19:39:53",
+          "desc": "DEPARTED FROM M1 [JAKARTA]",
+          "location": ""
+        },
+        {
+          "date": "2020-07-05 19:25:33",
+          "desc": "TRANSIT AT JAKARTA",
+          "location": ""
+        },
+        {
+          "date": "2020-07-05 02:55:25",
+          "desc": "DEPARTED [M] BY RSUB01BCGK0120070013 TO CGK01",
+          "location": ""
+        },
+        {
+          "date": "2020-07-04 16:39:20",
+          "desc": "DEPARTED FROM JUANDA [SURABAYA]",
+          "location": ""
+        },
+        {
+          "date": "2020-07-04 12:02:23",
+          "desc": "TRANSIT AT SURABAYA",
+          "location": ""
+        },
+        {
+          "date": "2020-07-04 07:31:18",
+          "desc": "DEPARTED BY RMXG01ASUB0120070047 TO SURABAYA",
+          "location": ""
+        },
+        {
+          "date": "2020-07-04 07:08:14",
+          "desc": "DEPARTED FROM ARIEF RAHMAN [MALANG]",
+          "location": ""
+        },
+        {
+          "date": "2020-07-04 05:11:54",
+          "desc": "ARRIVE AT TIKI AT MALANG",
+          "location": ""
+        },
+        {
+          "date": "2020-07-04 03:21:03",
+          "desc": "SHIPMENT DATA ENTRY AT MALANG",
+          "location": ""
+        }
+      ]
+    }
+  }

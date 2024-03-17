@@ -13,7 +13,7 @@ $('#search-button').on('click', function() {
         type: 'GET',
         dataType: 'json',
         data: {
-            'api_key' : '430af9a804e3e7c2a3f618f6d041bec2df95903d797edfaa9f730e8dd4f23fce',
+            'api_key' : '74714c4ec7cc49d76330508a8060219daa6b7e84ba2d28fe48e22f016f533fe3',
             'courier' : $('.kurir option:selected').val(),
             'awb' : $('#search-input').val()
         }, 
